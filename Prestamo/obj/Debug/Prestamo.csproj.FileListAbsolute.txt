@@ -1,0 +1,8 @@
+C:\Users\MILBE\OneDrive\Escritorio\c#\Prestamo\bin\Debug\Prestamo.exe.config
+C:\Users\MILBE\OneDrive\Escritorio\c#\Prestamo\bin\Debug\Prestamo.exe
+C:\Users\MILBE\OneDrive\Escritorio\c#\Prestamo\bin\Debug\Prestamo.pdb
+C:\Users\MILBE\OneDrive\Escritorio\c#\Prestamo\obj\Debug\Prestamo.csproj.AssemblyReference.cache
+C:\Users\MILBE\OneDrive\Escritorio\c#\Prestamo\obj\Debug\Prestamo.csproj.CoreCompileInputs.cache
+C:\Users\MILBE\OneDrive\Escritorio\c#\Prestamo\obj\Debug\Prestamo.exe
+C:\Users\MILBE\OneDrive\Escritorio\c#\Prestamo\obj\Debug\Prestamo.pdb
+C:\Users\MILBE\OneDrive\Escritorio\c#\Prestamo\obj\Debug\Prestamo.csproj.SuggestedBindingRedirects.cache
